@@ -1,4 +1,4 @@
-# Minecraft Server Scripts
+# ⚔️ Minecraft Server Scripts
 
 This section of the repository contains a collection of Bash scripts intended for use with **Minecraft Servers** on **Linux** systems. These scripts help with starting, stopping, and backing up your Minecraft server instances manually or via Cron Jobs.
 
